@@ -24,7 +24,7 @@ Para utilizar la aplicación, sigue estos pasos:
 
 ## Ejemplo
 
-![Captura de Pantalla]('/src/assets/Veterinaria-administrador-de-citas.png)
+![Captura de Pantalla](/src/assets/Veterinaria-administrador-de-citas.png)
 
 ```javascript
 // Ejemplo de código
